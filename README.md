@@ -1,0 +1,2 @@
+# Electric-Vehicle-market-size-analysis-with-Python
+ have analyzed datasets related to electric vehicles (EVs), focusing on uncovering meaningful insights providing actionable recommendations.  filtered EVs based on budget range criteria, grouped them by manufacturer, and calculated ties. I visualized the relationship between battery capacity &amp; range and detected outliers in energy consumption
